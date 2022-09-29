@@ -1,0 +1,75 @@
+Trait Name	Trait_Identifier	Code	Category	Reference	N	M	h2g	sd	Z	Intercept	log10 Me Common
+Crohn's Disease	PASS_CD_deLange2017	CD	blood/immune	de Lange et al. 2017 Nat Genet	40266	1150097	0.4152	0.0361	11.50138504155125	1.101	
+Celiac Disease	PASS_Celiac	Celiac	blood/immune	Dubois et al., 2010 Nat Genet	15283	245449	0.3296	0.0697	4.728837876614061	1.0528	
+Inflammatory Bowel Disease	PASS_IBD_deLange2017	IBD	blood/immune	de Lange et al. 2017 Nat Genet	59957	1150510	0.3206	0.0243	13.19341563786008	1.1216	3.60 (0.04)
+Systemic Lupus Erythematosus	PASS_Lupus	SLE	blood/immune	Bentham et al., 2015 Nat Genet	14267	654940	0.4584	0.0957	4.789968652037618	1.0899	
+Multiple Sclerosis	PASS_Multiple_sclerosis	MS	blood/immune	IMS Genetics Consortium, 2011 Nature	27148	227549	0.0812	0.0373	2.176943699731903	1.0416	
+Primary Biliary Cirrhosis	PASS_Primary_biliary_cirrhosis	PBC	blood/immune	Cordell et al., 2015 Nat Commun	13239	525775	0.4585	0.0818	5.605134474327628	0.9939	
+Rheumatoid Arthritis	PASS_Rheumatoid_Arthritis	RA	blood/immune	Okada et al., 2014 Nature 	37681	562682	0.187	0.0249	7.51004016064257	1.0256	3.03 (0.10)
+Ulcerative Colitis	PASS_UC_deLange2017	UC	blood/immune	de Lange et al. 2017 Nat Genet	45975	1150227	0.2805	0.0263	10.66539923954373	1.0825	
+Eosinophil Count	UKB_460K.blood_EOSINOPHIL_COUNT	EOS	blood/immune	UK Biobank	439938	1187057	0.2296	0.0117	19.62393162393162	1.1467	3.05 (0.04)
+Lymphocyte Count	UKB_460K.blood_LYMPHOCYTE_COUNT	LYM	blood/immune	UK Biobank	443940	1187057	0.2404	0.0114	21.08771929824561	1.1207	
+Mean Corpular Hemoglobin	UKB_460K.blood_MEAN_CORPUSCULAR_HEMOGLOBIN	MCH	blood/immune	UK Biobank	443686	1187057	0.2373	0.0132	17.97727272727273	1.2455	
+Monocyte Count	UKB_460K.blood_MONOCYTE_COUNT	MONO	blood/immune	UK Biobank	442620	1187057	0.2468	0.0147	16.7891156462585	1.211	
+Platelet Count	UKB_460K.blood_PLATELET_COUNT	PLT	blood/immune	UK Biobank	444382	1187057	0.3505	0.0165	21.24242424242424	1.2651	
+Red Blood Cell Distribution Width	UKB_460K.blood_RBC_DISTRIB_WIDTH	RDW	blood/immune	UK Biobank	442700	1187057	0.2172	0.0122	17.80327868852459	1.1432	2.70 (0.05)
+Red Blood Cell Count	UKB_460K.blood_RED_COUNT	RBC	blood/immune	UK Biobank	445174	1187057	0.2613	0.012	21.775	1.1818	2.67 (0.18)
+White Blood Cell Count	UKB_460K.blood_WHITE_COUNT	WBC	blood/immune	UK Biobank	444502	1187057	0.2273	0.0083	27.3855421686747	1.1154	3.30 (0.10)
+Auto Immune Traits	UKB_460K.disease_AID_ALL	AIT	blood/immune	UK Biobank	459324	1187057	0.0391	0.0028	13.96428571428572	1.0187	2.93 (0.05)
+Eczema	UKB_460K.disease_ALLERGY_ECZEMA_DIAGNOSED	Eczema	blood/immune	UK Biobank	458699	1187057	0.0847	0.0058	14.60344827586207	1.035	3.20 (0.05)
+Asthma	UKB_460K.disease_ASTHMA_DIAGNOSED	ASM	blood/immune	UK Biobank	458699	1187057	0.0666	0.0048	13.875	1.0288	3.12 (0.03)
+Hypothyroidism	UKB_460K.disease_HYPOTHYROIDISM_SELF_REP	HT	blood/immune	UK Biobank	459324	1187057	0.0546	0.0036	15.16666666666667	1.0329	
+Respiratory and Ear-nose-throat Diseases	UKB_460K.disease_RESPIRATORY_ENT	RR-ENT	blood/immune	UK Biobank	459324	1187057	0.0593	0.0042	14.11904761904762	1.0272	
+Attention Deficit Hyperactivity Disorder	PASS_ADHD_Demontis2018	ADHD	brain	Demontis et al. 2019 Nat Genet	55374	1059324	0.2478	0.0213	11.63380281690141	1.03	
+Alzheimer's Disease	PASS_Alzheimers_Jansen2019	AD	brain	Jansen et al. 2019 Nat Genet	433886	1165655	0.0141	0.0018	7.833333333333333	1.0044	2.90 (0.11)
+Bipolar Disorder	PASS_BIP_Mullins2021	BP	brain	NG_Mullins_2021	413466	1163185	0.0707	0.0031	22.806452	1.0357	
+Drinks per Week	PASS_DrinksPerWeek_Liu2019	Drink per week	brain	Liu et al. 2019 Nat Genet	527299	352681	0.0462	0.0032	14.4375	0.9425	
+General Risk Tolerance	PASS_GeneralRiskTolerance_KarlssonLinner2019	GRT	brain	Karlsson Linner et al. 2019 Nat Genet	466571	629328	0.0514	0.0028	18.35714285714286	1.0214	
+Insomnia	PASS_Insomnia_Jansen2019	Insomnia	brain	Jansen et al. 2019 Nat Genet	383948	1117678	0.044	0.0025	17.6	1.0291	
+Intelligence	PASS_Intelligence_SavageJansen2018	Intel	brain	Savage et al. 2018 Nat Genet	264193	1134136	0.1859	0.0064	29.046875	1.0888	
+Major Depressive Disorder	PASS_MDD_Howard2019	MDD	brain	Howard et al. 2019 Nat Neuro	378761	1158834	0.0794	0.0033	24.06060606060606	1.0186	
+Reaction Time	PASS_ReactionTime_Davies2018	Reaction time	brain	Davies et al. 2018 Nat Comm	300486	1184171	0.0812	0.0036	22.55555555555555	1.047	
+Subject Well Being	PASS_SWB	SWB	brain	Okbay et al., 2016 Nat Genet	298420	477900	0.0261	0.0054	4.833333333333333	2.035	
+Schizophrenia	PASS_Schizophrenia_Pardinas2018	SCZ	brain	Pardinas et al. 2018 Nat Genet	94437	984069	0.4515	0.0226	19.97787610619469	1.1114	
+Sleep Duration	PASS_SleepDuration_Dashti2019	Sleep duration	brain	Dashti et al. 2019 Nat Comm	446118	1186994	0.0708	0.0036	19.66666666666667	1.0385	
+Verbal Numeric Reasoning	PASS_VerbalNumericReasoning_Davies2018	VNR	brain	Davies et al. 2018 Nat Comm	168033	1184171	0.2079	0.0081	25.66666666666667	1.0512	
+Worry	PASS_Worry_Nagel2018	Worry	brain	Nagel et al. 2018 Nat Genet	345850	1122297	0.0922	0.0038	24.26315789473684	1.0333	
+Body Mass Index	UKB_460K.body_BMIz	BMI	brain	UK Biobank	457824	1187057	0.2779	0.0067	41.4776119402985	1.1324	3.78 (0.12)
+College Education	UKB_460K.cov_EDU_COLLEGE	ECOL	brain	UK Biobank	454813	1187057	0.1395	0.0041	34.02439024390244	1.1278	4.08 (0.05)
+Years of Education	UKB_460K.cov_EDU_YEARS	EY	brain	UK Biobank	454813	1187057	0.136	0.0038	35.78947368421053	1.114	
+Smoking Status	UKB_460K.cov_SMOKING_STATUS	Smoking	brain	UK Biobank	457683	1187057	0.0999	0.0034	29.38235294117647	1.0597	4.11 (0.02)
+Neuroticism	UKB_460K.mental_NEUROTICISM	NRT	brain	UK Biobank	372066	1187057	0.1139	0.004	28.475	1.0699	3.99 (0.23)
+Morning Person	UKB_460K.other_MORNINGPERSON	Morning person	brain	UK Biobank	410520	1187057	0.1061	0.0043	24.67441860465116	1.0525	4.02 (0.02)
+Number Children Even Born (pooled)	UKB_460K.repro_NumberChildrenEverBorn_Pooled	NCH	brain	UK Biobank	456500	1187057	0.0386	0.0023	16.78260869565218	1.0327	4.50 (0.13)
+Atrial Fibrillation	PASS_AtrialFibrillation_Nielsen2018	AF	heart	Nielsen et al. 2018 AJHG	1030836	1186534	0.0218	0.0013	16.76923076923077	1.0485	
+Coronary Artery Disease	PASS_Coronary_Artery_Disease	CAD	heart	Schunkert et al., 2011 Nat Genet 	77209	925224	0.0746	0.0124	6.016129032258065	1.0303	
+Diastolic Blood Pressure	UKB_460K.bp_DIASTOLICadjMEDz	DBP	heart	UK Biobank	422771	1187057	0.233	0.0084	27.73809523809524	1.12	
+Systolic Blood Pressure	UKB_460K.bp_SYSTOLICadjMEDz	SBP	heart	UK Biobank	422771	1187057	0.2319	0.0084	27.60714285714286	1.1199	3.81 (0.02)
+Cardiovascular Diseases	UKB_460K.disease_CARDIOVASCULAR	CVD	heart	UK Biobank	459324	1187057	0.1208	0.0043	28.09302325581395	1.0761	
+Hyperthension	UKB_460K.disease_HYPERTENSION_DIAGNOSED	HTN	heart	UK Biobank	458554	1187057	0.1411	0.0052	27.13461538461539	1.0828	
+Fasting Glucose	PASS_FastingGlucose_Manning	FG	metabolic	Manning et. al., 2012 Nat Genet	58074	1130214	0.0824	0.0154	5.35064935064935	1.0037	
+AlanineAminotransferase	UKB_460K.biochemistry_AlanineAminotransferase	ALT	metabolic	UK Biobank	431882	1187344	0.1099	0.0057	19.28070175438596	1.078	
+AlkalinePhosphatase	UKB_460K.biochemistry_AlkalinePhosphatase	ALP	metabolic	UK Biobank	433862	1187344	0.2348	0.016	14.675	1.1862	
+Cholesterol	UKB_460K.biochemistry_Cholesterol	TC	metabolic	UK Biobank	435137	1187344	0.1307	0.0112	11.66964285714286	1.0773	
+Glucose	UKB_460K.biochemistry_Glucose	Glucose	metabolic	UK Biobank	393767	1187344	0.0627	0.0058	10.81034482758621	1.055	
+HDLcholesterol	UKB_460K.biochemistry_HDLcholesterol	HDL	metabolic	UK Biobank	397612	1187344	0.2652	0.0163	16.26993865030675	1.1384	
+HbA1c	UKB_460K.biochemistry_HbA1c	HbA1c	metabolic	UK Biobank	411840	1187344	0.1834	0.0096	19.10416666666667	1.155	
+LDLdirect	UKB_460K.biochemistry_LDLdirect	LDL	metabolic	UK Biobank	434347	1187344	0.1084	0.0104	10.42307692307692	1.0887	
+Sex Hormone Binding Globulin	UKB_460K.biochemistry_SHBG	SHBG	metabolic	UK Biobank	391848	1187344	0.1781	0.0105	16.96190476190476	1.1699	
+TestosteroneMale	UKB_460K.biochemistry_Testosterone_Male	TST	metabolic	UK Biobank	196813	1187344	0.184	0.0111	16.57657657657657	1.0753	
+TotalBilirubin	UKB_460K.biochemistry_TotalBilirubin	TBIL	metabolic	UK Biobank	429423	1187344	0.0841	0.0076	11.06578947368421	1.136	
+TotalProtein	UKB_460K.biochemistry_TotalProtein	TP	metabolic	UK Biobank	397652	1187344	0.1811	0.0075	24.14666666666667	1.1184	
+Triglycerides	UKB_460K.biochemistry_Triglycerides	TG	metabolic	UK Biobank	431952	1187344	0.1586	0.011	14.41818181818182	1.1205	
+Type 1 Diabetes	PASS_Type_1_Diabetes	T1D	other	Bradfield et al., 2011 Plos Genet	26890	915518	0.131	0.0458	2.860262008733625	1.1018	
+Type 2 Diabetes	PASS_Type_2_Diabetes	T2D	other	Morris et al., 2012 Nat Genet 	60786	968539	0.095	0.0147	6.462585034013606	1.0184	2.85 (0.14)
+Heel T Score	UKB_460K.bmd_HEEL_TSCOREz	BMD-HT	other	UK Biobank	445921	1187057	0.3549	0.0173	20.51445086705202	1.2354	2.90 (0.08)
+Balding Type I	UKB_460K.body_BALDING1	Balding	other	UK Biobank	208336	1187057	0.2234	0.0152	14.69736842105263	1.1099	
+Height	UKB_460K.body_HEIGHTz	Height	other	UK Biobank	458303	1187057	0.674	0.0261	25.82375478927203	1.4625	3.56 (0.02)
+Waist-hip Ratio	UKB_460K.body_WHRadjBMIz	WHR	other	UK Biobank	458417	1187057	0.1705	0.0072	23.68055555555556	1.0845	
+Breast Cancer	UKB_460K.cancer_BREAST	Breast cancer	other	UK Biobank	459324	1187057	0.0178	0.0026	6.846153846153847	1.0126	
+Basal Metabolic Rate	UKB_460K.impedance_BASAL_METABOLIC_RATEz	BMR	other	UK Biobank	451316	1187057	0.3569	0.0099	36.05050505050504	1.1948	
+FEV1-FVC Ratio	UKB_460K.lung_FEV1FVCzSMOKE	FEV1/FVC	other	UK Biobank	371949	1187057	0.2763	0.0117	23.61538461538461	1.1129	3.38 (0.05)
+Forced Vital Capacity (FVC)	UKB_460K.lung_FVCzSMOKE	FVC	other	UK Biobank	371949	1187057	0.2336	0.0072	32.44444444444444	1.1046	
+Hair Color	UKB_460K.pigment_HAIR	Hair color	other	UK Biobank	452720	1187057	0.1658	0.0211	7.85781990521327	1.228	
+Age at Menarche	UKB_460K.repro_MENARCHE_AGE	MNR	other	UK Biobank	242278	1187057	0.253	0.0103	24.5631067961165	1.0607	
+Age at Menopause	UKB_460K.repro_MENOPAUSE_AGE	MNP	other	UK Biobank	143025	1187057	0.1093	0.0099	11.04040404040404	1.0421	
