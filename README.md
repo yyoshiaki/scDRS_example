@@ -6,6 +6,6 @@ conda activate scDRS
 
 git clone https://github.com/martinjzhang/scDRS.git
 cd scDRS
-git checkout -b v102 v1.0.2
+git checkout -b v103 v1.0.3
 pip install -e .
 ```
